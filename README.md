@@ -1,6 +1,4 @@
 # Netflix Desktop App Screenshot
-
-<h2> ✨ Screenshot on Netflix desktop </h2>
 <img src="https://github.com/AdemCanCertel/netflix-desktop-app/blob/main/src/images/netflix%20desktop%20app%20screenshot.png" />
 
 
