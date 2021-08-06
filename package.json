@@ -1,0 +1,23 @@
+{
+  "name": "netflix-desktop",
+  "version": "1.0.0",
+  "description": "Netflix Desktop",
+  "main": "src/main/index.js",
+  "author": {
+    "email": "ademcancertel619@gmail.com",
+    "name": "AdemCan Certel",
+    "url": "https://ademcancertel.github.io"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^13.1.7"
+  },
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "electron-widevinecdm": "^8.0.0",
+    "glob": "^7.1.7"
+  }
+}
