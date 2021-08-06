@@ -1,9 +1,9 @@
 {
 	"AppID": "872567396014104626",
-	"description": "Watching movies on Netflix",
-	"explanation": "Watch any movie.",
+	"description": "Watching Movie/TV Show on Netflix",
+	"explanation": "Browsing...",
 	"bigImageName": "netflix",
-	"bigPictureText": "netflix",
+	"bigPictureText": "Netflix",
 	"littlePictureName": "Netflix",
-	"littlePictureWriting": "Netflix"
+	"littlePictureWriting": "Netflix Desktop by AdemCan"
 }
